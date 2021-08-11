@@ -69,3 +69,6 @@
 
 ### [Goland（付费）](https://www.jetbrains.com/go/download/#section=windows)
 
+
+## Go优秀项目汇总
+### [Go优秀项目汇总-知乎](https://www.zhihu.com/question/48821269/answer/2049760553)
