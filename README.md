@@ -71,4 +71,6 @@
 
 
 ## Go优秀项目汇总
+### [中文版awesome-go](https://github.com/GolangFamily/golang-open-source-projects)
+### [Go优秀开源项目推荐](https://www.cnblogs.com/Can-daydayup/p/15178348.html)
 ### [Go优秀项目汇总-知乎](https://www.zhihu.com/question/48821269/answer/2049760553)
