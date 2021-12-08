@@ -58,7 +58,7 @@
 #### [Go语言编程](https://www.bookstack.cn/read/the-way-to-go_ZH_CN/eBook-directory.md)
 #### [Go Web编程 ](https://gobea.cn/ebook/detail/ZyrG3Rr8.html)
 #### [Go入门指南](https://www.bookstack.cn/books/the-way-to-go_ZH_CN)
-#### Go语言核心编程
+#### [Go语言核心编程](https://book.douban.com/subject/30351288/)
 #### [Go 语言高性能编程](https://geektutu.com/post/high-performance-go.html)
 #### [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
 #### [The Little Go Book中文译本，中文正式名《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)
@@ -78,17 +78,29 @@
 
 
 ## Go优秀项目汇总
+#### [GolangFamily](https://github.com/GolangFamily)
+
+> Go优秀项目，优质学习资源收集
+
 #### [中文版awesome-go](https://github.com/GolangFamily/golang-open-source-projects)
+
 #### [Go优秀开源项目推荐](https://www.cnblogs.com/Can-daydayup/p/15178348.html)
 #### [Go优秀项目汇总-知乎](https://www.zhihu.com/question/48821269/answer/2049760553)
 
 ## Go学习路线图
 #### Go语言基础知识点思维导图
 
+![image.png](images/1638972688259-e349975f-7af6-4c18-8a71-e00b1523b50e.png)
+
 #### Go知识图谱
+
+[来源GoCN👉](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0#map)
+
+![image.png](images/1638974390394-e8c07035-7336-408c-84bb-a6bc1bf114f8.png)
 
 #### Go学习路线图
 
+[来源golang-developer-roadmap-cn👉](https://github.com/Quorafind/golang-developer-roadmap-cn)
 
-
+![7fcfdf2ef244028d1e6fc2f2c412fee.png](images/1625574649583-2407e6c9-68f5-41bb-ab32-e07c220956b0.png)
 
