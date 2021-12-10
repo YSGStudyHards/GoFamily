@@ -30,7 +30,7 @@
 #### [Go指南](https://tour.go-zh.org/list)
 #### [Go语言编程-嗨客网](https://haicoder.net/golang/golang-tutorial.html)
 #### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests/)
-
+#### [Golang标准库中文文档](http://www.golang.ltd/)
 
 ## Go Web开发学习指南
 #### [使用Golang构建Web应用教程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
