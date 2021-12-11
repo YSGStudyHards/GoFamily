@@ -3,6 +3,12 @@
 ## 前言
 > 不得不说Go语言真的是一门非常受广大开发者追崇与喜爱的语言，从网上随便搜索一下就可以发现许多优秀的社区，网站与文章。个人在学习一门新知识和语言之前都会先了解和收集一些相关的学习资料，然后选择合适自己的进行学习，该库是自己收集的Go相关学习资料、学习笔记、个人实战经验汇总希望能够帮助到想要学习和入门Go的小伙伴。
 
+
+
+---
+
+
+
 ## Go 学习推荐社区/网站
 #### [Go官网](https://golang.google.cn/)
 #### [GoCN社区](https://gocn.vip/)
@@ -30,11 +36,23 @@
 #### [Go指南](https://tour.go-zh.org/list)
 #### [Go语言编程-嗨客网](https://haicoder.net/golang/golang-tutorial.html)
 #### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests/)
-#### [Golang标准库中文文档](http://www.golang.ltd/)
+
+
+
+---
+
+
+
 
 ## Go Web开发学习指南
 #### [使用Golang构建Web应用教程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 #### [Go 实战：Web 入门](https://learnku.com/courses/go-basic/1.15) 
+
+
+
+---
+
+
 
 
 ## Go学习路线教程
@@ -66,15 +84,44 @@
 #### [Golang修养之路](https://www.kancloud.cn/aceld/golang)
 
 
+
+---
+
+
+
+
 ## 开发工具
 #### [Visual Studio Code（免费）](https://code.visualstudio.com/Download)
+
+Visual Studio Code 是一款轻量级但功能强大的源代码编辑器，可在您的桌面上运行，适用于 Windows、macOS 和 Linux。它内置了对 JavaScript、TypeScript 和 Node.js 的支持，并为其他语言（例如 C++、C#、Java、Python、PHP、Go）和运行时（例如 .NET 和 Unity）提供了丰富的扩展生态系统. 
+
 ##### VS Code中的Go拓展
+
 [Go extension for VS Code](https://github.com/GolangFamily/vscode-go)
 
-#### [LiteIDE](http://liteide.org/cn/)
-> LiteIDE 是一款简单，开源，跨平台的 Go IDE
+
+
+#### [LiteIDE(免费)](http://liteide.org/cn/)
+
+LiteIDE 是一款简单，开源，跨平台的 Go IDE
+
+
 
 #### [Goland（付费）](https://www.jetbrains.com/go/download/#section=windows)
+
+[Goland](https://www.jetbrains.com/go/) 是一款由捷克软件开发公司 [JetBrains](https://www.jetbrains.com/) 专为 Go 开发的跨平台的商业 IDE。Goland 具有 Strong Code Insight、Navigation & Search、Run & Debug、Integration with VCSs、More than just a Go IDE 以及较强的 Extensibility，能够帮助 Gopher 轻松愉悦方便快捷地 read 和 write Go code。
+
+### 
+
+#### [Sublime Text（付费）](https://www.sublimetext.com/)
+
+Sublime Text 是一款流行的文本编辑器软件，有点类似于TextMate，跨平台，可运行在Linux，Windows和Mac OS X。也是许多程序员喜欢使用的一款文本编辑器软件。https://www.jetbrains.com/go/download/#section=windows)
+
+
+
+---
+
+
 
 
 ## Go优秀项目汇总
@@ -90,17 +137,28 @@
 ## Go学习路线图
 #### Go语言基础知识点思维导图
 
-![image.png](images/1638972688259-e349975f-7af6-4c18-8a71-e00b1523b50e.png)
+![Go语言基础知识点思维导图.png](images/Go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE-16392265913854.png)
 
-#### Go知识图谱
+#### 如何高效地学习Go？
 
-[来源GoCN👉](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0#map)
+[来源👉](https://github.com/0voice/Introduction-to-Golang#step-3如何高效地学习go)
 
-![image.png](images/1638974390394-e8c07035-7336-408c-84bb-a6bc1bf114f8.png)
+想要高效地的学习Golang，单单知道学习哪几个板块，是远远不够的。我们还需要将每个板块的知识点进一步细化。
+——**成功与失败之间，最重要的是不容忽视的细节**
+
+那么开始进一步完善之前的知识点：
+
+![高效地学习Go路线图.png](images/%E9%AB%98%E6%95%88%E5%9C%B0%E5%AD%A6%E4%B9%A0Go%E8%B7%AF%E7%BA%BF%E5%9B%BE.png)
 
 #### Go学习路线图
 
 [来源golang-developer-roadmap-cn👉](https://github.com/Quorafind/golang-developer-roadmap-cn)
 
-![7fcfdf2ef244028d1e6fc2f2c412fee.png](images/1625574649583-2407e6c9-68f5-41bb-ab32-e07c220956b0.png)
+![Go学习路线图.png](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/golang/Go学习路线图.png)
+
+#### Go知识图谱
+
+[来源GoCN👉](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0#map)
+
+![Go知识图谱.png](images/Go%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.png)
 
